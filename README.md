@@ -29,4 +29,7 @@ from web apps to smart tools and interactive experiences.
 ⭐️ *Thanks for visiting my profile!*
 
 
-![snake gif](https://github.com/samay-hash/samay-hash/blob/output/github-contribution-grid-snake.svg)
+### 🐍 My GitHub Snake
+
+![snake gif](https://raw.githubusercontent.com/samay-hash/samay-hash/output/snake.svg)
+
