@@ -1,17 +1,9 @@
 # 👋 Hi, I'm Samay!
 
-🚀 MERN Stack Developer | 🎨 Creator | ⚽ Football Lover  
-
-I love building projects that combine **creativity + technology** —  
-from web apps to smart tools and interactive experiences.
-
----
-
-### 🔥 What I Do
-- 🌐 Build full-stack web applications (MERN Stack)
-- 🧠 Learn & explore new tech every day
-- 📸 Create content & share knowledge
-
+Hi,
+I Am Samay
+Full-Stack Web Developer
+I build scalable web applications, modern UIs, and performance-focused digital products. Expanding into Web3 development, actively learning Solidity, Rust, and blockchain fundamentals.
 ---
 
 ### 📊 GitHub Stats
@@ -20,17 +12,13 @@ from web apps to smart tools and interactive experiences.
 ---
 
 ### 🌍 Connect With Me
-📧 Email: your-email@gmail.com  
-📷 Instagram: your-link  
-🐦 Twitter: your-link  
+📧 Email: samay3076@gmail.com  
+📷 Instagram: samay.samrat 
+🐦 Twitter: https://x.com/ChemistGamer1
 
 ---
 
 ⭐️ *Thanks for visiting my profile!*
 
-
-### 🐍 My GitHub Snake
-
-![snake gif](https://raw.githubusercontent.com/samay-hash/samay-hash/output/snake.svg)
 
 
