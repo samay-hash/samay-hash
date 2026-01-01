@@ -36,8 +36,8 @@ Alongside full-stack development, I’m expanding into **Web3** — actively lea
 
 ### 🌐 Connect With Me
 
-📧 Email: samay3076@gmail.com**  
-📷 Instagram: samay.samrat 
+📧 Email: samay3076@gmail.com
+📷 Instagram: chemist.gamer
 🐦 Twitter: https://x.com/ChemistGamer1  
 
 ---
