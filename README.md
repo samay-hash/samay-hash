@@ -9,7 +9,6 @@ I work across both **frontend and backend**, creating:
 - 🔐 Secure and well-structured APIs  
 - 🗄️ Organized and efficient databases  
 
-I have also contributed to open-source projects on GitHub, including **deskreen-master** and more.
 
 ---
 
