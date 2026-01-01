@@ -29,14 +29,15 @@ Alongside full-stack development, I’m expanding into **Web3** — actively lea
 
 ### 📊 GitHub Stats
 
-![Samay's GitHub stats](https://github-readme-stats.vercel.app/api?username=samay-hash&show_icons=true&theme=tokyonight)
+[![Samay's GitHub stats](https://github-readme-stats.vercel.app/api?username=samay-hash&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=samay-hash&show_icons=true&theme=tokyonight
+)
 
 ---
 
 ### 🌐 Connect With Me
 
 📧 Email: samay3076@gmail.com**  
-📷 Instagram: samay.samrat**  
+📷 Instagram: samay.samrat 
 🐦 Twitter: https://x.com/ChemistGamer1  
 
 ---
