@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samay!
 
-Hi, I am Samay — a Full-Stack Web Developer.  
+A Full-Stack Web Developer.  
 I build scalable web applications, modern UIs, and performance-focused digital products.
 
 I work across both **frontend and backend**, creating:
