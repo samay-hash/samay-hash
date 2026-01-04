@@ -60,9 +60,6 @@ Stack: DEVops
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=samay-hash&theme=darkhub)
 
-## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## ✍️ Blockchain Dev Quote  
 
 <div style="background: linear-gradient(135deg, #0f172a, #111827); padding: 18px 20px; border-radius: 14px;">
