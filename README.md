@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Samay!
 
-A Full-Stack Web Developer.  
-I build scalable web applications, modern UIs, and performance-focused digital products.
+I am a Full-Stack Web Developer, building modern web applications with Animation
 
-I work across both **frontend and backend**, creating:
+I work across frontend and backend, creating responsive UIs, secure APIs, and well-structured databases and I have also contributed to open-source projects on GitHub, including the deskreen-master repository and more..
+
+My core stack includes React, Next.js, Node.js, Express, and MongoDB.
+
+Alongside this, I’m expanding into Web3 development, learning Solidity and Solana contraction
 
 - 🎨 Responsive and clean user interfaces  
 - 🔐 Secure and well-structured APIs  
@@ -39,10 +42,18 @@ My Core Stack: React • Next.js • Node.js • Express • MongoDB
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF1493?style=for-the-badge)
 
+Stack: DEVops
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
-## 🏆 Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub)
 
 
 ---
@@ -52,7 +63,7 @@ Alongside full-stack development, I’m expanding into **Web3** — actively lea
 
 - 💠 Solidity  
 - 🧠 Rust  
-- 🔗 Blockchain fundamentals  
+- 🔗 Blockchain   
 
 ---
 
