@@ -63,6 +63,20 @@ Stack: DEVops
 ## ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## ✍️ Blockchain Dev Quote  
+
+<div style="background: linear-gradient(135deg, #0f172a, #111827); padding: 18px 20px; border-radius: 14px;">
+
+<p align="center" style="color:#9BE7FF; font-size:18px;">
+<b>“Smart contracts turn agreements into code — trust becomes a function, not a promise.”</b>
+</p>
+
+<p align="right" style="color:#ff5fa2;">
+— Blockchain Developer
+</p>
+
+</div>
+
 ---
 
 ### 🚀 Learning & Exploring
