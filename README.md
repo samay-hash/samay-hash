@@ -55,6 +55,9 @@ Stack: DEVops
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samay-hash&show_icons=true&theme=radical)
 
 ---
 
