@@ -70,7 +70,7 @@ Alongside full-stack development, I’m expanding into **Web3** — actively lea
 
 - 💠 Solidity  
 - 🧠 Rust  
-- 🔗 Blockchain   
+- 🔗 Blockchain
 
 ---
 
