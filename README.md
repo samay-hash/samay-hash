@@ -15,6 +15,15 @@ I work across both **frontend and backend**, creating:
 ### ⚙️ My Tech Stack
 React • Next.js • Node.js • Express • MongoDB  
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+
+## 🏆 Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub)
+
+
 ---
 
 ### 🚀 Learning & Exploring
