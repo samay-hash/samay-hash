@@ -67,7 +67,7 @@ Stack: DEVops
 
 <div style="background: linear-gradient(135deg, #0f172a, #111827); padding: 18px 20px; border-radius: 14px;">
 
-<p align="center" style="color:#9BE7FF; font-size:18px;">
+<p align="center" style="color:blue; font-size:18px;">
 <b>“Smart contracts turn agreements into code — trust becomes a function, not a promise.”</b>
 </p>
 
