@@ -57,17 +57,11 @@ Stack: DEVops
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samay-hash&show_icons=true&theme=radical)
-
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=samay-hash&theme=darkhub)
 
 ## ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔥 Top Repos
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samay-hash&layout=compact&theme=radical)
 
 ---
 
