@@ -66,10 +66,6 @@ Stack: DEVops
 <b>“Smart contracts turn agreements into code — trust becomes a function, not a promise.”</b>
 </p>
 
-<p align="right" style="color:#ff5fa2;">
-— Blockchain Developer
-</p>
-
 </div>
 
 ---
