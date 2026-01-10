@@ -4,57 +4,98 @@
 
 <table>
 <tr>
-<td width="35%">
+<td width="32%" valign="top">
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/your-github-id" width="200px" style="border-radius:50%](https://github.com/ayushparikh-code/ayushparikh-code/raw/main/coding-freak%20(1).gif)"/>
+  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="200" style="border-radius:50%"/>
 </p>
 
-### Samay Samrat  
-**samay-hash · he/him**
+<h3 align="center">Samay Samrat</h3>
+<p align="center"><b>samay-hash · he/him</b></p>
 
-I’m a **Full-Stack Web Developer** who builds **modern, animated web applications** and explores **Web3 technologies** like **Solidity, Rust & Blockchain**.
+<p align="center">
+Full-Stack Web Developer building modern web apps with animation and exploring Web3 (Solidity, Rust, Blockchain)
+</p>
 
-🌐 Open Source Contributor  
-🎓 B.Tech CSE (AI & Data Science)  
-🚀 Web + Web3 Developer  
-
-📧 **samay3076@gmail.com**  
-🐦 **https://x.com/ChemistGamer1**
+<p align="center">
+📧 <b>samay3076@gmail.com</b><br>
+🐦 <a href="https://x.com/ChemistGamer1">Twitter</a>
+</p>
 
 </td>
 
-<td width="65%">
+<td width="68%" valign="top">
 
-## 👨‍💻 About Me  
+## 👋 Hi, I'm Samay!
 
-- 🚀 Currently building modern full-stack web applications  
-- 🌱 Learning **Web3, Smart Contracts, Blockchain & Rust**  
-- 💬 Ask me anything about **React, Next.js, Node & MongoDB**  
-- ⚡ Fun fact: I write cleaner code when music is on 🎧  
+I am a **Full-Stack Web Developer**, building modern web applications with **Animation**.
+
+I work across **frontend and backend**, creating **responsive UIs, secure APIs, and well-structured databases** and I have also contributed to **open-source projects on GitHub**, including the **deskreen-master** repository and more.
+
+My core stack includes **React, Next.js, Node.js, Express, and MongoDB**.
+
+Alongside this, I’m expanding into **Web3 development**, learning **Solidity and Solana contracts**.
+
+- 🎨 Responsive and clean user interfaces  
+- 🔐 Secure and well-structured APIs  
+- 🗄️ Organized and efficient databases  
 
 ---
 
-## 🎯 2026 Goals  
+## ⚙️ My Tech Stack  
+**My Core Stack:** React • Next.js • Node.js • Express • MongoDB  
 
-- 🚀 Launch multiple full-stack + Web3 projects  
-- ☁️ Master DevOps & Cloud  
-- 💼 Get a great software engineering job  
+![API](https://img.shields.io/badge/API-0A66C2?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-FF6F00?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF1493?style=for-the-badge)
 
----
+**DEVOPS STACK**
 
-## ⚙️ Tech Stack  
-
-| JavaScript | TypeScript | React | Next.js | Node.js |
-|----------|------------|-------|---------|---------|
-| MongoDB | MySQL | Express | Prisma | AWS |
-| Docker | Kubernetes | GitHub | Linux | CI/CD |
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 
 ---
 
 ## ✍️ Dev Quote  
 
 > **“Smart contracts turn agreements into code — trust becomes a function, not a promise.”**
+
+---
+
+## 🚀 Learning & Exploring  
+
+Alongside full-stack development, I’m expanding into **Web3**:
+
+- 💠 Solidity  
+- 🧠 Rust  
+- 🔗 Blockchain  
 
 </td>
 </tr>
@@ -63,28 +104,7 @@ I’m a **Full-Stack Web Developer** who builds **modern, animated web applicati
 ---
 
 ## 📊 My GitHub Data  
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samay-hash&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samay-hash&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <b>Operating System</b><br>
-  Windows 💻
-</p>
-
----
-
-⭐ *Thanks for visiting my profile — let’s build the future with code.*
 
