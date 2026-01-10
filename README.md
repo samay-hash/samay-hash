@@ -21,21 +21,21 @@
 
 ## 🛠️ Tech Stack
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65"/>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="65"/>
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65"/>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65"/>
       <br>Node.js
     </td>
@@ -44,10 +44,9 @@
       <br>Three.js
     </td>
   </tr>
-
   <tr>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="65"/>
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
       <br>Redux
     </td>
     <td align="center" width="96">
@@ -55,15 +54,15 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="65"/>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="65"/>
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="65"/>
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
   </tr>
