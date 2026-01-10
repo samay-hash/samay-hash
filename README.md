@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Samay Samrat 👋</h1>
+<h1 align="center">Hi there, I'm Samay 👋</h1>
 
 ---
 
@@ -10,7 +10,7 @@
   <img src="https://avatars.githubusercontent.com/u/your-github-id" width="200" style="border-radius:50%"/>
 </p>
 
-<h3 align="center">Samay Samrat</h3>
+<!-- <h3 align="center">Samay Samrat</h3> -->
 <p align="center"><b>samay-hash · he/him</b></p>
 
 <p align="center">
@@ -26,7 +26,6 @@ Full-Stack Web Developer building modern web apps with animation and exploring W
 
 <td width="68%" valign="top">
 
-## 👋 Hi, I'm Samay!
 
 I am a **Full-Stack Web Developer**, building modern web applications with **Animation**.
 
