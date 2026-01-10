@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohd Rafey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Samay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Passionate+Software+Engineer;Full+Stack+Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
@@ -9,15 +9,13 @@
 ## 👨‍💻 About Me
 
 -   🔭 Currently working on an exciting web application project 🚀
--   🌱 Always expanding my knowledge in cloud technologies and microservices
--   💬 Ask me anything about MERN stack development
--   ⚡ Fun fact: I debug code faster with chai ☕
+-   🌱 My core stack includes React, Next.js, Node.js, Express, and MongoDB.
+-   💬 Alongside this, I’m expanding into Web3 development, learning Solidity and Solana contraction
 
 ## 🎯 2026 Goals
 
 -   🌐 Launch 2 major full-stack projects
--   📖 Deep dive into Devops
--   ☁️ Get Good Job
+-   📖 Deep dive into Devops and Web 3
 
 <br>
 
@@ -40,11 +38,6 @@
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
       <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-      <br>Java
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
