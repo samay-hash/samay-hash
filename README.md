@@ -21,53 +21,53 @@
 
 ## 🛠️ Tech Stack
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="65"/>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="65"/>
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="65"/>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65"/>
+     <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="65"/>
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="65"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="65"/>
       <br>Three.js
     </td>
   </tr>
-
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="65"/>
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
       <br>Redux
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="65"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="65"/>
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="65"/>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="65"/>
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="65"/>
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br>GitHub
     </td>
   </tr>
 </table>
+
 
 
 
@@ -132,9 +132,6 @@
  > 
 > 📜 58 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
 
 
 
@@ -144,16 +141,16 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohdrafey1" target="_blank">
+  <a href="https://www.linkedin.com/in/samaysamrat/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mohdrafey600@gmail.com" target="_blank">
+  <a href="mailto:samay3076@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://x.com/MohdRafey72" target="_blank">
+  <a href="https://x.com/ChemistGamer1" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://github.com/mohdrafey1" target="_blank">
+  <a href="https://github.com/samay-hash" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
 </p>
