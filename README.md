@@ -117,74 +117,15 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 91 Contributions in the Year 2026
+> 🏆 121 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 58 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
-
-```text
-🌞 Morning                234 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-🌆 Daytime                1486 commits        ████████░░░░░░░░░░░░░░░░░   32.51 % 
-🌃 Evening                1706 commits        █████████░░░░░░░░░░░░░░░░   37.32 % 
-🌙 Night                  1145 commits        ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   552 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Tuesday                  556 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Wednesday                620 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Thursday                 679 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Friday                   569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Saturday                 714 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Sunday                   881 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               19 hrs 54 mins      ████████████░░░░░░░░░░░░░   46.96 % 
-Other                    10 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-Java                     6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-JSON                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Bash                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-
-🔥 Editors: 
-Antigravity              22 hrs 41 mins      █████████████░░░░░░░░░░░░   53.54 % 
-Chrome                   10 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-VS Code                  8 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Cursor                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-
-🐱‍💻 Projects: 
-studentsenior-app-expo   18 hrs 21 mins      ███████████░░░░░░░░░░░░░░   43.32 % 
-Java-Dsa                 9 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-Letsettle                4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-studentsenior-app        3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-studentsenior-certificate2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-
-💻 Operating System: 
-Windows                  42 hrs 23 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            ███████████████░░░░░░░░░░   61.11 % 
-TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-```
-
 
 
 
