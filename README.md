@@ -7,7 +7,7 @@
 <td width="35%">
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" width="200px" style="border-radius:50%"/>
+  <img src="[https://avatars.githubusercontent.com/u/your-github-id" width="200px" style="border-radius:50%](https://github.com/ayushparikh-code/ayushparikh-code/raw/main/coding-freak%20(1).gif)"/>
 </p>
 
 ### Samay Samrat  
