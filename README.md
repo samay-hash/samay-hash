@@ -112,7 +112,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=samay-hash&label=Profile%20Views&color=red&style=flat&base=30000" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=samay-hash&label=Profile%20Views&color=red&style=flat&base=157" alt="profile views" />
 </p>
 
 
