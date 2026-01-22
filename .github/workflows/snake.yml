@@ -1,4 +1,4 @@
-name: Generate Snake
+name: GitHub Snake
 
 on:
   schedule:
@@ -6,24 +6,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         with:
-          github_user_name: samay-hash
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake.svg
-
-      - uses: actions/upload-artifact@v4
-
-        with:
-          name: snake
-          path: dist/snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
