@@ -70,7 +70,7 @@
 
 ## 📊 Contribution Graph
 
-![Metrics](https://metrics.lecoq.io/samay-hash?template=classic&activity=1)
+![Metrics](https://metrics.lecoq.io/samay-hash?template=classic&config.timezone=Asia/Kolkata)
 
 
 
