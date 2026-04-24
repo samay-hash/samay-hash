@@ -72,7 +72,12 @@
 
 ![Metrics](https://metrics.lecoq.io/samay-hash?template=classic&config.timezone=Asia/Kolkata)
 
+### 🚀 GitHub Contribution Stats
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=samay-hash&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samay-hash&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+</div>
 
 
 
