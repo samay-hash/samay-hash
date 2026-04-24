@@ -68,8 +68,6 @@
   </tr>
 </table>
 
-## 📊 Contribution Graph
-
 ![Metrics](https://metrics.lecoq.io/samay-hash?template=classic&config.timezone=Asia/Kolkata)
 
 ### 🚀 GitHub Contribution Stats
