@@ -68,6 +68,10 @@
   </tr>
 </table>
 
+## 📊 Contribution Graph
+
+![Metrics](https://metrics.lecoq.io/samay-hash?template=classic&activity=1)
+
 
 
 
