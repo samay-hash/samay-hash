@@ -103,46 +103,42 @@
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=for-the-badge\&logo=github\&logoColor=white)
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
+<p>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CI/CD-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ### Web3 & Blockchain
 
-![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge\&logo=blockchain.com\&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge\&logo=bitcoin\&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Solana-000000?style=for-the-badge&logo=solana&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Anchor-663399?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Smart_Contracts-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Ethers.js-2535A0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Metaplex-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-NFT-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Phantom-AB9FF2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Solana_CLI-00FFA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Solana_Devnet-14F195?style=for-the-badge"/>
+</p>
 
-![Solana](https://img.shields.io/badge/-Solana-000000?style=for-the-badge\&logo=solana\&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
-![Anchor](https://img.shields.io/badge/-Anchor-663399?style=for-the-badge\&logo=solana\&logoColor=white)
-
-![Smart Contracts](https://img.shields.io/badge/-Smart_Contracts-FF6F00?style=for-the-badge)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge\&logo=javascript\&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535A0?style=for-the-badge)
-
-![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge\&logo=ipfs\&logoColor=white)
-![Metaplex](https://img.shields.io/badge/-Metaplex-000000?style=for-the-badge)
-![NFT](https://img.shields.io/badge/-NFT-FF4081?style=for-the-badge)
-
-![Phantom Wallet](https://img.shields.io/badge/-Phantom-AB9FF2?style=for-the-badge)
-![Solana CLI](https://img.shields.io/badge/-Solana_CLI-00FFA3?style=for-the-badge)
-![Devnet](https://img.shields.io/badge/-Solana_Devnet-14F195?style=for-the-badge)
 
 <br>
 
