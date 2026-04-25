@@ -103,14 +103,23 @@
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=for-the-badge\&logo=github\&logoColor=white)
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 <br>
 
 <p align="center">
