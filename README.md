@@ -120,6 +120,30 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+
+### Web3 & Blockchain
+
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=for-the-badge\&logo=blockchain.com\&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge\&logo=bitcoin\&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
+
+![Solana](https://img.shields.io/badge/-Solana-000000?style=for-the-badge\&logo=solana\&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![Anchor](https://img.shields.io/badge/-Anchor-663399?style=for-the-badge\&logo=solana\&logoColor=white)
+
+![Smart Contracts](https://img.shields.io/badge/-Smart_Contracts-FF6F00?style=for-the-badge)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge\&logo=javascript\&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535A0?style=for-the-badge)
+
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge\&logo=ipfs\&logoColor=white)
+![Metaplex](https://img.shields.io/badge/-Metaplex-000000?style=for-the-badge)
+![NFT](https://img.shields.io/badge/-NFT-FF4081?style=for-the-badge)
+
+![Phantom Wallet](https://img.shields.io/badge/-Phantom-AB9FF2?style=for-the-badge)
+![Solana CLI](https://img.shields.io/badge/-Solana_CLI-00FFA3?style=for-the-badge)
+![Devnet](https://img.shields.io/badge/-Solana_Devnet-14F195?style=for-the-badge)
+
 <br>
 
 <p align="center">
