@@ -4,11 +4,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Passionate+Software+Engineer;Full+Stack+Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Passionate+Software+Engineer;Full+Stack+Developer;Open+Source+Enthusiast" />
-</p>
-
-<img align="right" alt="Pixel Boy" width="320" src="https://avatars.githubusercontent.com/u/xxxxxxxx?v=4">
+<img 
+  align="right" 
+  width="320" 
+  alt="Dark Pixel Dev"
+  src="https://raw.githubusercontent.com/samay-hash/samay-hash/main/assets/_%20(16).jpeg"
+/>
 
 ## 👨‍💻 About Me
 
