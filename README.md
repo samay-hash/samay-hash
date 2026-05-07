@@ -1,4 +1,3 @@
-src="https://github.com/user-attachments/assets/7faaf86f-8407-4a36-925b-6085ec99594a" />
 <h1 align="center">Hi there, I'm Samay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
