@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Passionate+Software+Engineer;Full+Stack+Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/ayushparikh-code/ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<img align="right" alt="Pixel Boy" width="320" src="https://i.pinimg.com/originals/4b/6b/8b/4b6b8b4c7d8d1a8b1d7c0d4a9f2b5c.gif">
 
 ## 👨‍💻 About Me
 
