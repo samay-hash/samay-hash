@@ -1,3 +1,4 @@
+src="https://github.com/user-attachments/assets/7faaf86f-8407-4a36-925b-6085ec99594a" />
 <h1 align="center">Hi there, I'm Samay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
@@ -8,7 +9,7 @@
   align="right" 
   width="320" 
   alt="Dark Pixel Dev"
-  src="https://github.com/user-attachments/assets/6b41592e-ffe2-4e7e-87e3-2ffa5102af1b"
+  src="https://github.com/user-attachments/assets/f6d0da57-281c-45d5-bd26-5930feb9bc58"
 />
 
 ## 👨‍💻 About Me
