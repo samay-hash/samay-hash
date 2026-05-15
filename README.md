@@ -76,6 +76,20 @@ Founded **Mwarex**, an AI-powered secure collaboration platform for creators, ed
 </a>
 
 </td>
+<!-- ---------------------nihceee -->
+<td width="33%" align="center">
+
+### Web3 Innovation
+
+Participated in a **Solana Hackathon** and built **Times Wall**, solving challenges around **Web3 privacy & security**.
+
+<br>
+
+<a href="https://timeswall.vercel.app/">
+<img src="https://img.shields.io/badge/View-TimesWall-8A2BE2?style=for-the-badge&logo=vercel"/>
+</a>
+
+</td>
 
 </tr>
 </table>
