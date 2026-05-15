@@ -30,7 +30,21 @@
 -   📖 Deep dive into Devops and Web 3
 
 <br>
+## 🏆 Achievements
 
+<div align="left">
+
+🏅 Contributed to **Open Design Repository** and collaborated in open-source development.
+
+🚀 Participated and contributed in **Solana Hackathon**, exploring Web3 ecosystem and blockchain development.
+
+💻 Building projects across **Full Stack + Web3 + DevOps** while continuously expanding into modern technologies.
+
+🌱 Actively exploring **Rust, Solana, Backend Architecture, and scalable systems**
+
+</div>
+
+<br>
 ## 🛠️ Tech Stack
 
 <table align="center">
