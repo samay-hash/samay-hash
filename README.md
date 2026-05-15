@@ -100,13 +100,11 @@ Founded **Mwarex**,  MwareX is an AI-powered secure collaboration platform built
 
 Managing **2 YouTube channels** across **Art & Editing** with a combined audience of **700K+ subscribers**.
 
+Focused on building creative communities and digital storytelling.
+
 <a href="https://www.youtube.com/@futxsamay">
 <img src="https://img.shields.io/badge/YouTube-700K+-FF0000?style=for-the-badge&logo=youtube"/>
 </a>
-
-</td>
-
-<td width="50%" align="center">
 
 ### 🏆 Recognition
 
@@ -118,6 +116,7 @@ Managing **2 YouTube channels** across **Art & Editing** with a combined audienc
 
 <a>
 <img src="https://img.shields.io/badge/2×-State%20Winner-F5B301?style=for-the-badge"/>
+  Recognized across state and national platforms for artistic excellence.
 </a>
 
 <a>
