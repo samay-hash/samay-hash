@@ -95,6 +95,10 @@ Founded **Mwarex**,  MwareX is an AI-powered secure collaboration platform built
 <tr>
 
 <td width="50%" align="center">
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
 
 ### 🎨 Creator Ecosystem
 
@@ -102,32 +106,44 @@ Managing **2 YouTube channels** across **Art & Editing** with a combined audienc
 
 Focused on building creative communities and digital storytelling.
 
+<br>
+
 <a href="https://www.youtube.com/@futxsamay">
 <img src="https://img.shields.io/badge/YouTube-700K+-FF0000?style=for-the-badge&logo=youtube"/>
 </a>
 
+</td>
+
+<td width="50%" align="center">
+
 ### 🏆 Recognition
 
 🏅 **2× State-Level Under-17 Art Competition Winner**  
-📍 2015 • 2018
+📍 **2015 • 2018**
 
 🥈 **National-Level Art Competition**  
 📍 Secured **2nd Place • 2017**
 
-<a>
-<img src="https://img.shields.io/badge/2×-State%20Winner-F5B301?style=for-the-badge"/>
-  Recognized across state and national platforms for artistic excellence.
-</a>
+Recognized across state and national platforms for artistic excellence.
 
-<a>
+<br>
+
+<img src="https://img.shields.io/badge/2×-State%20Winner-F5B301?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/National-2nd%20Place-E67E22?style=for-the-badge"/>
-</a>
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+> *Building products • Solving problems • Creating impact*
+
+</div>
 <br>
 
 <div align="center">
