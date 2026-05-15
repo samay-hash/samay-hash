@@ -48,7 +48,7 @@
 
 <td width="33%" align="center">
 
-### 🌍 Open Source
+###  Open Source
 
 Worked on **Open Design**, contributing to community-driven projects and gaining hands-on experience with real-world development workflows.
 
@@ -60,7 +60,7 @@ Worked on **Open Design**, contributing to community-driven projects and gaining
 
 <td width="33%" align="center">
 
-### 🔐 Web3 Innovation
+###  Web3 Innovation
 
 Participated in a **Solana Hackathon** and built **Times Wall**, solving challenges around **Web3 privacy & security**.
 
@@ -74,7 +74,7 @@ Participated in a **Solana Hackathon** and built **Times Wall**, solving challen
 
 <td width="33%" align="center">
 
-### 🏢 Founder @ Mwarex
+###  Founder @ Mwarex
 
 Founded **Mwarex**,  MwareX is an AI-powered secure collaboration platform built for YouTube creators and video editors.
 
