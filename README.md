@@ -18,19 +18,19 @@
 </div>
 
 <br>
-## 👨‍💻 About Me
+╭────────────── 👨‍💻 ABOUT ME ──────────────╮
 
 -   🔭 Currently working on an exciting web application project 🚀
 -   🌱 My core stack includes React, Next.js, Node.js, Express, and MongoDB.
 -   💬 Alongside this, I’m expanding into Web3 development, learning Solidity and Solana contraction
 
-## 🎯 2026 Goals
+╭────────────── 🎯 2026 GOALS ──────────────╮
 
 -   🌐 Launch 2 major full-stack projects
 -   📖 Deep dive into Devops and Web 3
 
 <br>
-## ⚡ Building Journey
+╭────────── ⚡ BUILDING JOURNEY ──────────╮
 
 <div align="center">
 
