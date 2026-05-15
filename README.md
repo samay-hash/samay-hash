@@ -18,19 +18,31 @@
 </div>
 
 <br>
-╭────────────── 👨‍💻 ABOUT ME ──────────────╮
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:9333EA,100:3B82F6&text=👨‍💻%20About%20Me&fontColor=ffffff&fontSize=30"/>
+
+</div>
 
 -   🔭 Currently working on an exciting web application project 🚀
 -   🌱 My core stack includes React, Next.js, Node.js, Express, and MongoDB.
 -   💬 Alongside this, I’m expanding into Web3 development, learning Solidity and Solana contraction
 
-╭────────────── 🎯 2026 GOALS ──────────────╮
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:06B6D4,100:2563EB&text=🎯%202026%20Goals&fontColor=ffffff&fontSize=30"/>
+
+</div>
 
 -   🌐 Launch 2 major full-stack projects
 -   📖 Deep dive into Devops and Web 3
 
 <br>
-╭────────── ⚡ BUILDING JOURNEY ──────────╮
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7F00FF,100:00D4FF&text=⚡%20Building%20Journey&fontSize=32&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+
+</div>
 
 <div align="center">
 
