@@ -30,77 +30,87 @@
 -   📖 Deep dive into Devops and Web 3
 
 <br>
-## 🏆 Highlights & Milestones
+## ⚡ Building Journey
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🚀 Web3 Builder
+### 🌐 Open Source
 
-Contributed in a **Solana Hackathon** and worked on solving a key challenge around **Web3 security & privacy** through **Times Wall**, focused on improving privacy-driven user interactions.
-
-</td>
-
-<td width="50%">
-
-### 🌍 Open Source
-
-Contributed to **Open Design**, collaborating in real-world open-source development and community-driven projects.
+Contributed to **Open Design**, collaborating on community-driven projects and real-world development workflows.
 
 </td>
 
-</tr>
+<td width="33%" align="center">
 
-<tr>
+### 🔐 Web3 Innovation
 
-<td width="50%">
-
-### 🏢 Founder Journey
-
-Founded **Mwarex**, with a focus on building products around technology and modern digital experiences.
+Contributed in a **Solana Hackathon** and built **Times Wall**, addressing challenges around **Web3 privacy & security**.
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🎨 Creative + Audience
+### 🏢 Founder
 
-Managing **two YouTube channels** in **Art & Editing**, building a combined community of **700K+ subscribers**.
+Founded **Mwarex**, building products focused on technology and modern digital experiences.
 
 </td>
 
 </tr>
-
-<tr>
-
-<td width="50%">
-
-### 🏅 Recognition
-
-**2× State Level Under-17 Art Competition Winner**  
-📍 2015 • 2018
-
-</td>
-
-<td width="50%">
-
-### ⚡ Beyond Code
-
-Building across **Full Stack, Web3, Solana, DevOps and Backend systems**, while exploring scalable products and modern technologies.
-
-</td>
-
-</tr>
-
 </table>
 
 </div>
 
 <br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🎨 Creative Ecosystem
+
+Managing **two YouTube channels** across **Art & Editing**, with a combined audience of **700K+ subscribers**.
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏆 Recognition
+
+**2× State-Level Under-17 Art Competition Winner**
+
+📍 2015 • 2018
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Web3-Solana-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Founder-Mwarex-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/700K+-Audience-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/2x-State%20Winner-orange?style=for-the-badge"/>
+
+</p>
 ## 🛠️ Tech Stack
 
 <table align="center">
