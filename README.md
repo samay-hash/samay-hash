@@ -19,20 +19,20 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:0D1117,50:161B22,100:0D1117&text=About%20Me&fontColor=C9D1D9&fontSize=20&animation=fadeIn"/>
+<img align="left" src="https://capsule-render.vercel.app/api?type=rect&height=32&width=220&color=0:0D1117,50:161B22,100:0D1117&text=About%20Me&fontColor=C9D1D9&fontSize=16"/>
 
 - 🔭 Currently working on an exciting web application project 🚀
 - 🌱 Core stack includes React, Next.js, Node.js, Express and MongoDB
 - 💬 Expanding into Web3 development, Solidity and Solana ecosystem
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:0D1117,50:1C2128,100:0D1117&text=2026%20Goals&fontColor=C9D1D9&fontSize=20&animation=fadeIn"/>
+<img align="left" src="https://capsule-render.vercel.app/api?type=rect&height=32&width=220&color=0:0D1117,50:1C2128,100:0D1117&text=2026%20Goals&fontColor=C9D1D9&fontSize=16"/>
 
 - 🌐 Launch 2 major full-stack projects
 - 📖 Deep dive into DevOps & Web3
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:0D1117,50:161B22,100:0D1117&text=⚡%20Building%20Journey&fontColor=C9D1D9&fontSize=20&animation=fadeIn"/>
+<img align="left" src="https://capsule-render.vercel.app/api?type=rect&height=32&width=260&color=0:0D1117,50:161B22,100:0D1117&text=⚡%20Building%20Journey&fontColor=C9D1D9&fontSize=16"/>
 
 <table width="100%">
 <tr>
