@@ -87,49 +87,60 @@ Founded **Mwarex**, an AI-powered secure collaboration platform for creators, ed
 
 <table width="100%">
 <tr>
+<td align="center">
 
-<td width="65%" align="center">
+<table width="100%">
+<tr>
 
-### 🎨 Creator Ecosystem
+<td width="50%" align="center" valign="top">
 
-➤ Managing **2 YouTube channels** across **Art & Editing** <br>
-with a combined audience of **700K+ subscribers**.<br>
+<h3>🎨 Creator Ecosystem</h3>
 
-➤ Focused on building creative communities <br>
+➤ Managing 2 YouTube channels across Art & Editing  
+with a combined audience of <b>700K+ subscribers</b>
+
+<br><br>
+
+➤ Focused on building creative communities  
 and digital storytelling.
 
-<br>
+<br><br><br>
 
-<a href="https://www.youtube.com/@futxsamay">
-<img src="https://img.shields.io/badge/YouTube-700K+-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
+<img src="https://img.shields.io/badge/YouTube-700K+-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
-### 🏆 Recognition
-
+<h3>🏆 Recognition</h3>
 
 🏅 Art Competition
 
-🥇 **2× State-Level Winner**  
-➤ 2015 • 2018  
+<br><br>
 
-🥈 **National-Level Competition**  
-➤ 2nd Place • 2017  
+🥇 <b>2× State-Level Winner</b>  
+➤ 2015 • 2018
 
-➤ Passionate about art, sketching and creativity. <br>
-➤ Building visual storytelling skills from an early age.
+<br><br>
 
-<br>
+🥈 <b>National-Level Competition</b>  
+➤ 2nd Place • 2017
 
-<img src="https://img.shields.io/badge/2×-State-F5B301?style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/National-2nd-E67E22?style=for-the-badge"/>
+➤ Passionate about art & sketching
+
+<br><br><br>
+
+<img src="https://img.shields.io/badge/2×-STATE-F4C430?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NATIONAL-2ND-E67E22?style=for-the-badge"/>
 
 </td>
 
+</tr>
+</table>
+
+</td>
 </tr>
 </table>
 <br>
