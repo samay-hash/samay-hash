@@ -96,7 +96,7 @@ Founded **Mwarex**,  MwareX is an AI-powered secure collaboration platform built
 
 <td width="50%" align="center">
 
-### 🎨 Creator Ecosystem
+###  Creator Ecosystem
 
 Managing **two YouTube channels** around **Art & Editing** with a combined audience of **700K+ subscribers**.
 
@@ -113,10 +113,10 @@ Managing **two YouTube channels** around **Art & Editing** with a combined audie
 ### 🏆 Recognition  
 
 **2× State-Level Under-17 Art Competition Winner**  
-📍 **2015 • 2018**
+ **2015 • 2018**
 
 🥈 **National-Level Art Competition — 2nd Place**  
-📍 **2017**
+ **2017**
 
 <br>
 
