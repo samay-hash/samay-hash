@@ -90,9 +90,9 @@ Founded **Mwarex**, an AI-powered secure collaboration platform for creators, ed
 
 ### 🎨 Creator Ecosystem
 
-Managing **2 YouTube channels** across Art & Editing with a combined audience of **700K+ subscribers**.
+➤ Managing **2 YouTube channels** across Art & Editing with a combined audience of **700K+ subscribers**.
 
-Focused on building creative communities and digital storytelling.
+➤ Focused on building creative communities and digital storytelling.
 
 <br>
 
@@ -106,8 +106,8 @@ Focused on building creative communities and digital storytelling.
 
 ### 🏆 Recognition in Art
 
-Achieved **2× State-Level Winner** titles ➤ 2015 • 2018
-and secured **2nd place at National-Level competition**. ➤ 2nd Place • 2017
+➤ Achieved **2× State-Level Winner** titles ➤ 2015 • 2018 <br>
+➤ and secured **2nd place at National-Level competition**. ➤ 2nd Place • 2017
 
 Passionate about sketching, creativity and visual storytelling since an early age.
 
