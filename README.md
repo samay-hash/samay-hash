@@ -20,7 +20,7 @@
 <br>
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:9333EA,100:3B82F6&text=👨‍💻%20About%20Me&fontColor=ffffff&fontSize=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0D1117,50:161B22,100:0D1117&text=👨‍💻%20About%20Me&fontColor=C9D1D9&fontSize=28&animation=fadeIn"/>
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:06B6D4,100:2563EB&text=🎯%202026%20Goals&fontColor=ffffff&fontSize=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0D1117,50:1C2128,100:0D1117&text=🎯%202026%20Goals&fontColor=C9D1D9&fontSize=28&animation=fadeIn"/>
 
 </div>
 
@@ -40,7 +40,7 @@
 <br>
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7F00FF,100:00D4FF&text=⚡%20Building%20Journey&fontSize=32&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=85&color=0:0D1117,50:161B22,100:0D1117&text=⚡%20Building%20Journey&fontColor=C9D1D9&fontSize=28&fontAlignY=38&animation=fadeIn"/>
 
 </div>
 
