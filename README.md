@@ -114,12 +114,9 @@ Managing **two YouTube channels** around **Art & Editing** with a combined audie
 
 **2× State-Level Under-17 Art Competition Winner**  
  **2015 • 2018**
-
 🥈 **National-Level Art Competition — 2nd Place**  
  **2017**
-
 <br>
-
 <img src="https://img.shields.io/badge/2×-State%20Winner-F5B301?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/National-2nd%20Place-E67E22?style=for-the-badge"/>
