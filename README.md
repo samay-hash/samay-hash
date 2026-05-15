@@ -109,7 +109,7 @@ Managing **two YouTube channels** around **Art & Editing** with a combined audie
 </td>
 
 <td width="50%" align="center">
-
+--------------------------
 <table width="100%">
 <tr>
 
@@ -117,11 +117,7 @@ Managing **two YouTube channels** around **Art & Editing** with a combined audie
 
 ### 🎨 Creator Ecosystem
 
-Managing two YouTube channels across **Art & Editing**, with a combined audience of **700K+ subscribers**.
-
-Focused on storytelling, creativity and building a strong digital audience across platforms.
-
-<br>
+Managing **2 YouTube channels** across **Art & Editing** with a combined audience of **700K+ subscribers**.
 
 <a href="https://www.youtube.com/@futxsamay">
 <img src="https://img.shields.io/badge/YouTube-700K+-FF0000?style=for-the-badge&logo=youtube"/>
@@ -133,19 +129,16 @@ Focused on storytelling, creativity and building a strong digital audience acros
 
 ### 🏆 Recognition
 
-🏅 **2× State-Level Under-17 Art Competition Winner**  
-↳ **2015 • 2018**
+🏅 **2× State-Level Winner** • **2015 | 2018**  
+🥈 **National-Level Competition** • **2nd Place (2017)**
 
-🥈 **National-Level Art Competition**  
-↳ Secured **2nd Place • 2017**
-
-🎨 Recognized for creative excellence and artistic achievements across state and national platforms.
-
-<br>
-
+<a>
 <img src="https://img.shields.io/badge/2×-State%20Winner-F5B301?style=for-the-badge"/>
+</a>
 
+<a>
 <img src="https://img.shields.io/badge/National-2nd%20Place-E67E22?style=for-the-badge"/>
+</a>
 
 </td>
 
