@@ -106,7 +106,8 @@ Focused on building creative communities and digital storytelling.
 
 ### 🏆 Recognition in Art
 
-Achieved **2× State-Level Winner** titles and secured **2nd place at National-Level competition**.
+Achieved **2× State-Level Winner** titles ➤ 2015 • 2018
+and secured **2nd place at National-Level competition**. ➤ 2nd Place • 2017
 
 Passionate about sketching, creativity and visual storytelling since an early age.
 
