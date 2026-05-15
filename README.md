@@ -46,14 +46,22 @@
 
 <div align="center">
 
-<table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=⚡%20Building%20Journey&fontColor=C9D1D9&fontSize=34&animation=fadeIn"/>
+
+</div>
+
+<table width="100%">
 <tr>
 
 <td width="33%" align="center">
 
-### 🌐 Open Source
+### 🌍 Open Source
 
-Contributed to **Open Design**, collaborating on community-driven projects and real-world development workflows.
+Worked on **Open Design**, contributing to community-driven projects and gaining hands-on experience with real-world development workflows.
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-161B22?style=for-the-badge"/>
 
 </td>
 
@@ -61,35 +69,49 @@ Contributed to **Open Design**, collaborating on community-driven projects and r
 
 ### 🔐 Web3 Innovation
 
-Contributed in a **Solana Hackathon** and built **Times Wall**, addressing challenges around **Web3 privacy & security**.
+Participated in a **Solana Hackathon** and built **Times Wall**, solving challenges around **Web3 privacy & security**.
+
+<br>
+
+<a href="https://timeswall.vercel.app/">
+<img src="https://img.shields.io/badge/View-TimesWall-8A2BE2?style=for-the-badge&logo=vercel"/>
+</a>
 
 </td>
 
 <td width="33%" align="center">
 
-### 🏢 Founder
+### 🏢 Founder @ Mwarex
 
-Founded **Mwarex**, building products focused on technology and modern digital experiences.
+Founded **Mwarex**, focused on creating modern products and scalable digital experiences.
+
+<br>
+
+<a href="https://mwarex.in/">
+<img src="https://img.shields.io/badge/Visit-Mwarex-0A66C2?style=for-the-badge&logo=googlechrome"/>
+</a>
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 <br>
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" align="center">
 
-### 🎨 Creative Ecosystem
+### 🎨 Creator Ecosystem
 
-Managing **two YouTube channels** across **Art & Editing**, with a combined audience of **700K+ subscribers**.
+Managing **two YouTube channels** around **Art & Editing** with a combined audience of **700K+ subscribers**.
+
+<br>
+
+<a href="https://www.youtube.com/@futxsamay">
+<img src="https://img.shields.io/badge/YouTube-700K+-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
 
 </td>
 
@@ -101,14 +123,22 @@ Managing **two YouTube channels** across **Art & Editing**, with a combined audi
 
 📍 2015 • 2018
 
+<br>
+
+<img src="https://img.shields.io/badge/State-Winner-F5B301?style=for-the-badge"/>
+
 </td>
 
 </tr>
 </table>
 
-</div>
-
 <br>
+
+<div align="center">
+
+> *Building products • Solving problems • Creating impact*
+
+</div>
 
 <p align="center">
 
