@@ -85,7 +85,7 @@ Founded **Mwarex**, an AI-powered secure collaboration platform for creators, ed
 <table width="100%">
 <tr>
 
-<td width="65%" align="center">
+<td width="50%" align="center">
 
 ### 🎨 Creator Ecosystem
 
@@ -103,7 +103,7 @@ and digital storytelling.
 
 </td>
 
-<td width="35%" align="center">
+<td width="50%" align="center">
 
 ### 🏆 Recognition in Art Compitition
 
