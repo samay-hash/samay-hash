@@ -76,7 +76,7 @@ Participated in a **Solana Hackathon** and built **Times Wall**, solving challen
 
 ### 🏢 Founder @ Mwarex
 
-Founded **Mwarex**, focused on creating modern products and scalable digital experiences.
+Founded **Mwarex**, focused on creating modern products, MwareX is an AI-powered secure collaboration platform built for YouTube creators and video editors.
 
 <br>
 
