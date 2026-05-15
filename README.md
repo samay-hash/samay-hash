@@ -110,17 +110,47 @@ Managing **two YouTube channels** around **Art & Editing** with a combined audie
 
 <td width="50%" align="center">
 
-### 🏆 Recognition  
+<table width="100%">
+<tr>
 
-**2× State-Level Under-17 Art Competition Winner**  
- **2015 • 2018**
-🥈 **National-Level Art Competition — 2nd Place**  
- **2017**
+<td width="50%" align="center">
+
+### 🎨 Creator Ecosystem
+
+Managing two YouTube channels across **Art & Editing**, with a combined audience of **700K+ subscribers**.
+
+Focused on storytelling, creativity and building a strong digital audience across platforms.
+
 <br>
+
+<a href="https://www.youtube.com/@futxsamay">
+<img src="https://img.shields.io/badge/YouTube-700K+-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏆 Recognition
+
+🏅 **2× State-Level Under-17 Art Competition Winner**  
+↳ **2015 • 2018**
+
+🥈 **National-Level Art Competition**  
+↳ Secured **2nd Place • 2017**
+
+🎨 Recognized for creative excellence and artistic achievements across state and national platforms.
+
+<br>
+
 <img src="https://img.shields.io/badge/2×-State%20Winner-F5B301?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/National-2nd%20Place-E67E22?style=for-the-badge"/>
 
+</td>
+
+</tr>
+</table>
 
 </tr>
 </table>
