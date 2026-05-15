@@ -92,56 +92,6 @@ Founded **Mwarex**, an AI-powered secure collaboration platform for creators, ed
 <table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="top">
-
-<h3>🎨 Creator Ecosystem</h3>
-
-➤ Managing 2 YouTube channels across Art & Editing  
-with a combined audience of <b>700K+ subscribers</b>
-
-<br><br>
-
-➤ Focused on building creative communities  
-and digital storytelling.
-
-<br><br><br>
-
-<img src="https://img.shields.io/badge/YouTube-700K+-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3>🏆 Recognition</h3>
-
-🥇 <b>2× State-Level Winner</b><br>
-➤ 2015 • 2018
-
-<br><br>
-
-🥈 <b>National-Level Competition</b><br>
-➤ 2nd Place • 2017
-
-<br><br>
-
-➤ Passionate about art & sketching<br>
-➤ Building visual storytelling skills
-
-<br><br><br>
-
-<img src="https://img.shields.io/badge/2×-STATE-F5B301?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NATIONAL-2ND-E67E22?style=for-the-badge"/>
-➤ Passionate about art & sketching
-
-<br><br><br>
-
-<img src="https://img.shields.io/badge/2×-STATE-F4C430?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NATIONAL-2ND-E67E22?style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
 
 </td>
 </tr>
