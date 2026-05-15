@@ -1,16 +1,23 @@
-<h1 align="center">Hi there, I'm Samay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">
+  Hi there, I'm Samay 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=Passionate+Software+Engineer;Full+Stack+Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
-</p>
+<div align="center">
 
-<img 
-  align="right" 
-  width="320" 
-  alt="Dark Pixel Dev"
-  src="https://github.com/user-attachments/assets/f6d0da57-281c-45d5-bd26-5930feb9bc58"
-/>
+![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Web3](https://img.shields.io/badge/Web3-121D33?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+</div>
+
+<br>
 ## 👨‍💻 About Me
 
 -   🔭 Currently working on an exciting web application project 🚀
