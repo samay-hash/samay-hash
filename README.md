@@ -43,13 +43,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=65&color=0:0D1117,50:161B22,100:0D1117&text=⚡%20Building%20Journey&fontColor=C9D1D9&fontSize=28&fontAlignY=38&animation=fadeIn"/>
 
 </div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=⚡%20Building%20Journey&fontColor=C9D1D9&fontSize=34&animation=fadeIn"/>
-
-</div>
-
 <table width="100%">
 <tr>
 
