@@ -88,7 +88,7 @@ Founded **Mwarex**, an AI-powered secure collaboration platform for creators, ed
 <table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="65%" align="center">
 
 ### 🎨 Creator Ecosystem
 
@@ -112,14 +112,11 @@ and digital storytelling.
 🏅 Art Competition
 
 🥇 **2× State-Level Winner**  
-➤ 2015 • 2018  
+➤ 2015 • 2018  <br>
 
 🥈 **National-Level Competition**  
-➤ 2nd Place • 2017  
+➤ 2nd Place • 2017  <br>
 
-➤ Passionate about art, sketching and creativity.
-
-➤ Building visual storytelling skills from an early age.
 <br>
 
 <img src="https://img.shields.io/badge/2×-State-F5B301?style=for-the-badge"/>
