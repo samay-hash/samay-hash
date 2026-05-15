@@ -30,17 +30,73 @@
 -   📖 Deep dive into Devops and Web 3
 
 <br>
-## 🏆 Achievements
+## 🏆 Highlights & Milestones
 
-<div align="left">
+<div align="center">
 
-🏅 Contributed to **Open Design Repository** and collaborated in open-source development.
+<table>
+<tr>
 
-🚀 Participated and contributed in **Solana Hackathon**, exploring Web3 ecosystem and blockchain development.
+<td width="50%">
 
-💻 Building projects across **Full Stack + Web3 + DevOps** while continuously expanding into modern technologies.
+### 🚀 Web3 Builder
 
-🌱 Actively exploring **Rust, Solana, Backend Architecture, and scalable systems**
+Contributed in a **Solana Hackathon** and worked on solving a key challenge around **Web3 security & privacy** through **Times Wall**, focused on improving privacy-driven user interactions.
+
+</td>
+
+<td width="50%">
+
+### 🌍 Open Source
+
+Contributed to **Open Design**, collaborating in real-world open-source development and community-driven projects.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏢 Founder Journey
+
+Founded **Mwarex**, with a focus on building products around technology and modern digital experiences.
+
+</td>
+
+<td width="50%">
+
+### 🎨 Creative + Audience
+
+Managing **two YouTube channels** in **Art & Editing**, building a combined community of **700K+ subscribers**.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏅 Recognition
+
+**2× State Level Under-17 Art Competition Winner**  
+📍 2015 • 2018
+
+</td>
+
+<td width="50%">
+
+### ⚡ Beyond Code
+
+Building across **Full Stack, Web3, Solana, DevOps and Backend systems**, while exploring scalable products and modern technologies.
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
