@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Samay 
+  Hi there, I'm Samay
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 
@@ -18,39 +18,36 @@
 </div>
 
 <br>
-<div align="center">
 
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0D1117,50:161B22,100:0D1117&text=%20About%20Me&fontColor=C9D1D9&fontSize=28&animation=fadeIn"/>
-
 </div>
 
--   🔭 Currently working on an exciting web application project 🚀
--   🌱 My core stack includes React, Next.js, Node.js, Express, and MongoDB.
--   💬 Alongside this, I’m expanding into Web3 development, learning Solidity and Solana contraction
+- 🔭 Currently working on an exciting web application project 🚀
+- 🌱 Core stack includes React, Next.js, Node.js, Express and MongoDB
+- 💬 Expanding into Web3 development, Solidity and Solana ecosystem
 
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0D1117,50:1C2128,100:0D1117&text=%202026%20Goals&fontColor=C9D1D9&fontSize=28&animation=fadeIn"/>
-
 </div>
 
--   🌐 Launch 2 major full-stack projects
--   📖 Deep dive into Devops and Web 3
+- 🌐 Launch 2 major full-stack projects
+- 📖 Deep dive into DevOps & Web3
 
 <br>
+
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=65&color=0:0D1117,50:161B22,100:0D1117&text=⚡%20Building%20Journey&fontColor=C9D1D9&fontSize=28&fontAlignY=38&animation=fadeIn"/>
-
 </div>
+
 <table width="100%">
 <tr>
 
 <td width="33%" align="center">
 
-###  Open Source
+### Open Source
 
-Worked on **Open Design**, contributing to community-driven projects and gaining hands-on experience with real-world development workflows.
+Worked on **Open Design**, contributing to community-driven projects and gaining real-world development experience.
 
 <br>
 
@@ -60,7 +57,7 @@ Worked on **Open Design**, contributing to community-driven projects and gaining
 
 <td width="33%" align="center">
 
-###  Web3 Innovation
+### Web3 Innovation
 
 Participated in a **Solana Hackathon** and built **Times Wall**, solving challenges around **Web3 privacy & security**.
 
@@ -74,9 +71,9 @@ Participated in a **Solana Hackathon** and built **Times Wall**, solving challen
 
 <td width="33%" align="center">
 
-###  Founder @ Mwarex
+### Founder @ Mwarex
 
-Founded **Mwarex**,  MwareX is an AI-powered secure collaboration platform built for YouTube creators and video editors.
+Founded **Mwarex**, an AI-powered secure collaboration platform for creators and editors.
 
 <br>
 
@@ -94,9 +91,7 @@ Founded **Mwarex**,  MwareX is an AI-powered secure collaboration platform built
 <table width="100%">
 <tr>
 
-<td width="50%" align="center">
-
-<td width="50%" align="center">
+<td width="65%" align="center">
 
 ### 🎨 Creator Ecosystem
 
@@ -112,33 +107,27 @@ Focused on building creative communities and digital storytelling.
 
 </td>
 
-<td width="50%" align="center">
+<td width="35%" align="center">
 
 ### 🏆 Recognition
 
-🏅 **2× State-Level Under-17 Art Competition Winner**  
+🏅 **2× State-Level Winner**  
 📍 **2015 • 2018**
 
-🥈 **National-Level Art Competition**  
-📍 Secured **2nd Place • 2017**
-
-Recognized across state and national platforms for artistic excellence.
+🥈 **National-Level Competition**  
+📍 **2nd Place • 2017**
 
 <br>
 
-<img src="https://img.shields.io/badge/2×-State%20Winner-F5B301?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2×-State-F5B301?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/National-2nd%20Place-E67E22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/National-2nd-E67E22?style=for-the-badge"/>
 
 </td>
 
-<br>
+</tr>
+</table>
 
-<div align="center">
-
-> *Building products • Solving problems • Creating impact*
-
-</div>
 <br>
 
 <div align="center">
@@ -150,13 +139,9 @@ Recognized across state and national platforms for artistic excellence.
 <p align="center">
 
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Web3-Solana-purple?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Founder-Mwarex-success?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/700K+-Audience-red?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/2x-State%20Winner-orange?style=for-the-badge"/>
 
 </p>
