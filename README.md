@@ -77,6 +77,7 @@ Founded **Mwarex**, an AI-powered secure collaboration platform for creators, ed
 
 </td>
 <!-- ---------------------nihceee -->
+<br>
 <td width="33%" align="center">
 
 ### Web3 Innovation
