@@ -95,8 +95,6 @@ Founded **Mwarex**,  MwareX is an AI-powered secure collaboration platform built
 <tr>
 
 <td width="50%" align="center">
-<table width="100%">
-<tr>
 
 <td width="50%" align="center">
 
@@ -133,9 +131,6 @@ Recognized across state and national platforms for artistic excellence.
 <img src="https://img.shields.io/badge/National-2nd%20Place-E67E22?style=for-the-badge"/>
 
 </td>
-
-</tr>
-</table>
 
 <br>
 
