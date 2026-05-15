@@ -114,20 +114,23 @@ and digital storytelling.
 
 <h3>🏆 Recognition</h3>
 
-🏅 Art Competition
-
-<br><br>
-
-🥇 <b>2× State-Level Winner</b>  
+🥇 <b>2× State-Level Winner</b><br>
 ➤ 2015 • 2018
 
 <br><br>
 
-🥈 <b>National-Level Competition</b>  
+🥈 <b>National-Level Competition</b><br>
 ➤ 2nd Place • 2017
 
 <br><br>
 
+➤ Passionate about art & sketching<br>
+➤ Building visual storytelling skills
+
+<br><br><br>
+
+<img src="https://img.shields.io/badge/2×-STATE-F5B301?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NATIONAL-2ND-E67E22?style=for-the-badge"/>
 ➤ Passionate about art & sketching
 
 <br><br><br>
