@@ -109,13 +109,18 @@ and digital storytelling.
 <td width="50%" align="center">
 
 ### 🏆 Recognition
+
+
 🏅 Art Competition
 
 🥇 **2× State-Level Winner**  
-➤ 2015 • 2018  <br>
+➤ 2015 • 2018  
 
 🥈 **National-Level Competition**  
-➤ 2nd Place • 2017  <br>
+➤ 2nd Place • 2017  
+
+➤ Passionate about art, sketching and creativity. <br>
+➤ Building visual storytelling skills from an early age.
 
 <br>
 
