@@ -76,21 +76,7 @@ Founded **Mwarex**, an AI-powered secure collaboration platform for creators, ed
 </a>
 
 </td>
-<!-- ---------------------nihceee -->
-<br>
-<td width="33%" align="center">
 
-### Web3 Innovation
-
-Participated in a **Solana Hackathon** and built **Times Wall**, solving challenges around **Web3 privacy & security**.
-
-<br>
-
-<a href="https://timeswall.vercel.app/">
-<img src="https://img.shields.io/badge/View-TimesWall-8A2BE2?style=for-the-badge&logo=vercel"/>
-</a>
-
-</td>
 
 </tr>
 </table>
@@ -100,20 +86,41 @@ Participated in a **Solana Hackathon** and built **Times Wall**, solving challen
 <table width="100%">
 <tr>
 
-<table width="100%">
-<tr>
-<td align="center">
+<td width="50%" align="center">
 
-<table width="100%">
-<tr>
+### 🎨 Creator Ecosystem
 
+Managing **2 YouTube channels** across Art & Editing with a combined audience of **700K+ subscribers**.
 
-<!-- </td> -->
-<!-- </tr> -->
-<!-- </table> -->
-<!-- <br> -->
+Focused on building creative communities and digital storytelling.
 
+<br>
 
+<a href="https://www.youtube.com/@futxsamay">
+<img src="https://img.shields.io/badge/YouTube-700K+-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏆 Recognition in Art
+
+Achieved **2× State-Level Winner** titles and secured **2nd place at National-Level competition**.
+
+Passionate about sketching, creativity and visual storytelling since an early age.
+
+<br>
+
+<img src="https://img.shields.io/badge/2×-STATE-F5B301?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NATIONAL-2ND-E67E22?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 <p align="center">
 
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue?style=for-the-badge"/>
