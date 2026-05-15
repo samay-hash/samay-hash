@@ -73,7 +73,7 @@ Participated in a **Solana Hackathon** and built **Times Wall**, solving challen
 
 ### Founder @ Mwarex
 
-Founded **Mwarex**, an AI-powered secure collaboration platform for creators and editors.
+Founded **Mwarex**, an AI-powered secure collaboration platform for creators, editors and Startup Founders.
 
 <br>
 
