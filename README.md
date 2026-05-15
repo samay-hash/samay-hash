@@ -93,16 +93,11 @@ Founded **Mwarex**, an AI-powered secure collaboration platform for creators, ed
 <tr>
 
 
-</td>
-</tr>
-</table>
-<br>
+<!-- </td> -->
+<!-- </tr> -->
+<!-- </table> -->
+<!-- <br> -->
 
-<div align="center">
-
-> *Building products • Solving problems • Creating impact*
-
-</div>
 
 <p align="center">
 
