@@ -106,8 +106,8 @@ Founded **Mwarex**, an AI-powered secure collaboration platform for creators, ed
 
 ### 🏆 Recognition in Art
 
-➤ Achieved **2× State-Level Winner** titles ➤ 2015 • 2018 <br>
-➤ and secured **2nd place at National-Level competition**. ➤ 2nd Place • 2017
+➤ **2× State-Level Winner** titles ➤ 2015 • 2018 <br>
+➤ Secured **2nd place at National-Level**. ➤ 2nd Place • 2017
 
 Passionate about sketching, creativity and visual storytelling since an early age.
 
