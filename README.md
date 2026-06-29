@@ -251,6 +251,33 @@ Passionate about sketching, creativity and visual storytelling since an early ag
 <img src="https://img.shields.io/badge/-Solana_Devnet-14F195?style=for-the-badge"/>
 </p>
 
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Deep_Learning-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/-LLMs-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Prompt_Engineering-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Context_Engineering-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-LangGraph-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-RAG-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Vector_Databases-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Embeddings-795548?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-AI_Agents-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Agentic_AI-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-MCP-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Fine_Tuning-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-LoRA-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-QLoRA-546E7A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Inference-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Model_Deployment-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-AI_Automation-03A9F4?style=for-the-badge"/>
+</p>
 
 <br>
 
