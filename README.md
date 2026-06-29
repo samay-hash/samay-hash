@@ -202,10 +202,35 @@ Passionate about sketching, creativity and visual storytelling since an early ag
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-tRPC-2596BE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-gRPC-244C5A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/-OAuth_2.0-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Passport.js-34E27A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Drizzle_ORM-C5F74F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/-BullMQ-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/-OpenAPI-6BA539?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Zod-3068B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Joi-4B32C3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Winston-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Pino-F9A825?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Microservices-673AB7?style=for-the-badge"/>
+</p>
 
 ### Database
 
